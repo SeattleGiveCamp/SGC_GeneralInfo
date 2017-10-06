@@ -1,7 +1,7 @@
 # SGC_GeneralInfo
 General info about Seattle GiveCamp 2017
 
-# Wireless Info
+# Onsite Wireless Info
 - Network: **Msftguest**
 - Event attendee code: **msevent60tr**
 
@@ -21,7 +21,7 @@ General info about Seattle GiveCamp 2017
 - You will be invited after joining the team
 
 # Seattle GiveCamp Schedule
-- Friday 6-11pm
+- Friday 6pm-11pm
 - Saturday 8am-11pm
 - Sunday 8am-6pm
 - More details at http://seattlegivecamp.org/FAQ/Agenda.aspx
