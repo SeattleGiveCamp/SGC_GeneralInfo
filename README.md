@@ -34,4 +34,5 @@ General info about Seattle GiveCamp 2017
 
 # Directions & additional details
 - http://seattlegivecamp.org
+- Code of conduct: http://seattlegivecamp.org/About/CodeOfConduct.aspx
 
