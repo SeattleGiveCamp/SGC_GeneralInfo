@@ -2,8 +2,8 @@
 General info about Seattle GiveCamp 2017
 
 # Wireless Info
-- Network: Msftguest
-- Event attendee code: msevent60tr
+- Network: '''Msftguest'''
+- Event attendee code: '''msevent60tr'''
 
 # Discord invite
 - https://discord.gg/QFsNFfy
