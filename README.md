@@ -25,11 +25,12 @@ General info about Seattle GiveCamp 2017
 - Sunday 8am-6pm
 - More details at http://seattlegivecamp.org/FAQ/Agenda.aspx
 
-# Directions
-- http://seattlegivecamp.org
-
 # What to bring
 - laptop and power cord
 - water bottle and hot beverage container
 - your ticket for check-in and thereafter your badge
 - great attitude
+
+# Directions & additional details
+- http://seattlegivecamp.org
+
