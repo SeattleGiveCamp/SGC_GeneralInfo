@@ -12,6 +12,7 @@ General info about Seattle GiveCamp 2017
 
 # Github Repos
 - You are here already, but they can be found at https://github.com/SeattleGiveCamp
+- Besides this repo, there is one repo per project
 
 # Laptop setup
 - Goto http://seattlegivecamp.org/FAQ/DeveloperGetReady.aspx
