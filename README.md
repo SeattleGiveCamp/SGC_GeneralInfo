@@ -13,5 +13,23 @@ General info about Seattle GiveCamp 2017
 # Github Repos
 - You are here already, but they can be found at https://github.com/SeattleGiveCamp
 
+# Laptop setup
+- Goto http://seattlegivecamp.org/FAQ/DeveloperGetReady.aspx
+
 # Access to Google Drive Folders
 - You will be invited after joining the team
+
+# Seattle GiveCamp Schedule
+- Friday 6-11pm
+- Saturday 8am-11pm
+- Sunday 8am-6pm
+- More details at http://seattlegivecamp.org/FAQ/Agenda.aspx
+
+# Directions
+- http://seattlegivecamp.org
+
+# What to bring
+- laptop and power cord
+- water bottle and hot beverage container
+- your ticket for check-in and thereafter your badge
+- great attitude
