@@ -27,6 +27,7 @@ For icon generation use the platform specific versions:
 * Android: https://romannurik.github.io/AndroidAssetStudio/ and https://materialdesignicons.com/
 * iOS: https://icons8.com/icon/set/search/ios7
 * UWP: http://modernuiicons.com/
+* Google: https://material.io/icons/
 
 ### Main Navigation if Tabs (Xamarin.Forms)
 This application uses Tabs for the main navigation.
